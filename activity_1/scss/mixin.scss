@@ -1,0 +1,9 @@
+@mixin dry ($color: green, $backgroundColor: red) {
+    color: $color;
+    background-color: $backgroundColor;
+    font-size: 20px;
+}
+
+.style1 {
+    @include dry(yellow, blue);
+}

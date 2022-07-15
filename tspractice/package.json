@@ -1,0 +1,11 @@
+{
+  "name": "tspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc"
+  },                              
+  "author": "",
+  "license": "ISC"
+}
